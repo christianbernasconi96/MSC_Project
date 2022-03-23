@@ -10,10 +10,14 @@
 ### Project 1: Linear systems with positive definite sparse matrixes
 Two sparse, symmetric and postive definite matrices solvers  have been compared with Cholesky method in both Matlab and Octave on Windows and Linux.
 
+The report of the project is available [here](Report1.pdf).
+
 ### Project 2: Implementation of DCT2 and compression algorithm
 The projects has two parts:
 - part1: implementation of DCT2
 - part2: implementation of a compression algorithm analogue to JPEG
+
+The report of the project is available [here](Report2.pdf).
 
 
 ## How to run:
